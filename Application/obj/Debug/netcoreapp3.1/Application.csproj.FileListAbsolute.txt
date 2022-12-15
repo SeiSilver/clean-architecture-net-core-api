@@ -1,0 +1,13 @@
+F:\github\CleanArchitectureAPI\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+F:\github\CleanArchitectureAPI\Application\bin\Debug\netcoreapp3.1\Application.dll
+F:\github\CleanArchitectureAPI\Application\bin\Debug\netcoreapp3.1\Application.pdb
+F:\github\CleanArchitectureAPI\Application\bin\Debug\netcoreapp3.1\Domain.dll
+F:\github\CleanArchitectureAPI\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.dll
+F:\github\CleanArchitectureAPI\Application\obj\Debug\netcoreapp3.1\Application.pdb

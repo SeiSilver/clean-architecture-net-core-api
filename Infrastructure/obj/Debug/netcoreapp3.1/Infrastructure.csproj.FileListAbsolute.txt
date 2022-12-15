@@ -1,0 +1,16 @@
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+F:\github\CleanArchitectureAPI\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+F:\github\CleanArchitectureAPI\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
